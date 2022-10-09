@@ -1,15 +1,15 @@
 import './sidebar.css';
 
 import {
-    Bookmark,
-    Event,
-    Group,
-    HelpOutline,
-    Message,
-    PlayCircleFilledOutlined,
-    RssFeed,
-    School,
-    WorkOutline,
+  Bookmark,
+  Event,
+  Group,
+  HelpOutline,
+  Message,
+  PlayCircleFilledOutlined,
+  RssFeed,
+  School,
+  WorkOutline,
 } from '@mui/icons-material';
 
 export default function Sidebar() {
@@ -54,53 +54,97 @@ export default function Sidebar() {
             <span className="sidebarListItemText">Courses</span>
           </li>
         </ul>
-        <button className='sidebarButton'>Show More</button>
-        <hr className='sidebarHr' />
+        <button className="sidebarButton">Show More</button>
+        <hr className="sidebarHr" />
         <ul className="sidebarFriendList">
-            <li className="sidebarFriend">
-                <img className='sidebarFriendImg' src="/assets/person/2.jpeg" alt="" />
-                <span className='sidebarFriendName'>Jane Doe</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className='sidebarFriendImg' src="/assets/person/2.jpeg" alt="" />
-                <span className='sidebarFriendName'>Jane Doe</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className='sidebarFriendImg' src="/assets/person/2.jpeg" alt="" />
-                <span className='sidebarFriendName'>Jane Doe</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className='sidebarFriendImg' src="/assets/person/2.jpeg" alt="" />
-                <span className='sidebarFriendName'>Jane Doe</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className='sidebarFriendImg' src="/assets/person/2.jpeg" alt="" />
-                <span className='sidebarFriendName'>Jane Doe</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className='sidebarFriendImg' src="/assets/person/2.jpeg" alt="" />
-                <span className='sidebarFriendName'>Jane Doe</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className='sidebarFriendImg' src="/assets/person/2.jpeg" alt="" />
-                <span className='sidebarFriendName'>Jane Doe</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className='sidebarFriendImg' src="/assets/person/2.jpeg" alt="" />
-                <span className='sidebarFriendName'>Jane Doe</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className='sidebarFriendImg' src="/assets/person/2.jpeg" alt="" />
-                <span className='sidebarFriendName'>Jane Doe</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className='sidebarFriendImg' src="/assets/person/2.jpeg" alt="" />
-                <span className='sidebarFriendName'>Jane Doe</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className='sidebarFriendImg' src="/assets/person/2.jpeg" alt="" />
-                <span className='sidebarFriendName'>Jane Doe</span>
-            </li>
+          <li className="sidebarFriend">
+            <img
+              className="sidebarFriendImg"
+              src="/assets/person/2.jpeg"
+              alt=""
+            />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              className="sidebarFriendImg"
+              src="/assets/person/2.jpeg"
+              alt=""
+            />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              className="sidebarFriendImg"
+              src="/assets/person/2.jpeg"
+              alt=""
+            />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              className="sidebarFriendImg"
+              src="/assets/person/2.jpeg"
+              alt=""
+            />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              className="sidebarFriendImg"
+              src="/assets/person/2.jpeg"
+              alt=""
+            />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              className="sidebarFriendImg"
+              src="/assets/person/2.jpeg"
+              alt=""
+            />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              className="sidebarFriendImg"
+              src="/assets/person/2.jpeg"
+              alt=""
+            />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              className="sidebarFriendImg"
+              src="/assets/person/2.jpeg"
+              alt=""
+            />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              className="sidebarFriendImg"
+              src="/assets/person/2.jpeg"
+              alt=""
+            />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              className="sidebarFriendImg"
+              src="/assets/person/2.jpeg"
+              alt=""
+            />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              className="sidebarFriendImg"
+              src="/assets/person/2.jpeg"
+              alt=""
+            />
+            <span className="sidebarFriendName">Jane Doe</span>
+          </li>
         </ul>
       </div>
     </div>
